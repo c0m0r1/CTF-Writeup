@@ -1,0 +1,350 @@
+
+0 th insert: line 2755
+ 0 th node make: line 2766
+
+1 th insert: line 2806
+ 1 th node same -> inc val: line 2820
+
+2 th insert: line 2871
+ 2 th node same -> inc val: line 2885
+
+3 th insert: line 2936
+ 3 th node large: line 2965
+  3 th node make: line 2976
+
+4 th insert: line 3055
+ 4 th node large: line 3084
+  4 th node small: line 3108
+   4 th node make: line 3119
+  (left) rotation occured: line 3166
+ (right) rotation occured: line 3243
+
+5 th insert: line 3280
+ 5 th node large: line 3309
+  5 th node small: line 3333
+   5 th node make: line 3344
+  (left) rotation occured: line 3391
+
+6 th insert: line 3496
+ 6 th node same -> inc val: line 3510
+
+7 th insert: line 3581
+ 7 th node large: line 3610
+  7 th node small: line 3634
+   7 th node make: line 3645
+  (left) rotation occured: line 3692
+  (right) rotation occured: line 3730
+
+8 th insert: line 3821
+ 8 th node small: line 3845
+  8 th node small: line 3869
+   8 th node make: line 3880
+  (left) rotation occured: line 3927
+
+9 th insert: line 4033
+ 9 th node large: line 4062
+  9 th node small: line 4086
+   9 th node small: line 4110
+    9 th node make: line 4121
+   (left) rotation occured: line 4168
+
+10 th insert: line 4320
+ 10 th node large: line 4349
+  10 th node large: line 4378
+   10 th node small: line 4402
+    10 th node make: line 4413
+   (left) rotation occured: line 4460
+
+11 th insert: line 4619
+ 11 th node small: line 4643
+  11 th node same -> inc val: line 4657
+
+12 th insert: line 4768
+ 12 th node large: line 4797
+  12 th node small: line 4821
+   12 th node large: line 4850
+    12 th node large: line 4879
+     12 th node make: line 4890
+   (right) rotation occured: line 4995
+  (left) rotation occured: line 5039
+ (right) rotation occured: line 5131
+
+13 th insert: line 5168
+ 13 th node small: line 5192
+  13 th node large: line 5221
+   13 th node small: line 5245
+    13 th node make: line 5256
+   (left) rotation occured: line 5303
+
+14 th insert: line 5463
+ 14 th node large: line 5492
+  14 th node small: line 5516
+   14 th node small: line 5540
+    14 th node make: line 5551
+   (left) rotation occured: line 5598
+
+15 th insert: line 5758
+ 15 th node small: line 5782
+  15 th node same -> inc val: line 5796
+
+16 th insert: line 5922
+ 16 th node small: line 5946
+  16 th node same -> inc val: line 5960
+
+17 th insert: line 6086
+ 17 th node small: line 6110
+  17 th node small: line 6134
+   17 th node same -> inc val: line 6148
+
+18 th insert: line 6314
+ 18 th node large: line 6343
+  18 th node large: line 6372
+   18 th node same -> inc val: line 6386
+
+19 th insert: line 6550
+ 19 th node small: line 6574
+  19 th node same -> inc val: line 6588
+
+20 th insert: line 6714
+ 20 th node small: line 6738
+  20 th node small: line 6762
+   20 th node large: line 6791
+    20 th node large: line 6820
+     20 th node make: line 6831
+   (right) rotation occured: line 6936
+  (left) rotation occured: line 6980
+
+21 th insert: line 7094
+ 21 th node large: line 7123
+  21 th node small: line 7147
+   21 th node same -> inc val: line 7161
+
+22 th insert: line 7326
+ 22 th node small: line 7350
+  22 th node small: line 7374
+   22 th node same -> inc val: line 7388
+
+23 th insert: line 7549
+ 23 th node large: line 7578
+  23 th node small: line 7602
+   23 th node small: line 7626
+    23 th node make: line 7637
+   (left) rotation occured: line 7684
+   (right) rotation occured: line 7722
+  (left) rotation occured: line 7766
+
+24 th insert: line 7879
+ 24 th node small: line 7903
+  24 th node large: line 7932
+   24 th node large: line 7961
+    24 th node large: line 7990
+     24 th node small: line 8014
+      24 th node make: line 8025
+     (left) rotation occured: line 8072
+    (right) rotation occured: line 8149
+  (right) rotation occured: line 8273
+ (left) rotation occured: line 8317
+
+25 th insert: line 8376
+ 25 th node small: line 8400
+  25 th node large: line 8429
+   25 th node large: line 8458
+    25 th node make: line 8469
+
+26 th insert: line 8657
+ 26 th node small: line 8681
+  26 th node small: line 8705
+   26 th node same -> inc val: line 8719
+
+27 th insert: line 8880
+ 27 th node small: line 8904
+  27 th node large: line 8933
+   27 th node large: line 8962
+    27 th node small: line 8986
+     27 th node make: line 8997
+    (left) rotation occured: line 9044
+   (right) rotation occured: line 9121
+
+28 th insert: line 9267
+ 28 th node large: line 9296
+  28 th node large: line 9325
+   28 th node small: line 9349
+    28 th node same -> inc val: line 9363
+
+29 th insert: line 9577
+ 29 th node large: line 9606
+  29 th node large: line 9635
+   29 th node large: line 9664
+    29 th node large: line 9693
+     29 th node same -> inc val: line 9707
+
+30 th insert: line 9979
+ 30 th node small: line 10003
+  30 th node small: line 10027
+   30 th node same -> inc val: line 10041
+
+31 th insert: line 10202
+ 31 th node small: line 10226
+  31 th node large: line 10255
+   31 th node large: line 10284
+    31 th node small: line 10308
+     31 th node make: line 10319
+    (left) rotation occured: line 10366
+
+32 th insert: line 10580
+ 32 th node small: line 10604
+  32 th node large: line 10633
+   32 th node small: line 10657
+    32 th node same -> inc val: line 10671
+
+33 th insert: line 10886
+ 33 th node large: line 10915
+  33 th node same -> inc val: line 10929
+
+34 th insert: line 11054
+ 34 th node small: line 11078
+  34 th node small: line 11102
+   34 th node same -> inc val: line 11116
+
+35 th insert: line 11277
+ 35 th node large: line 11306
+  35 th node large: line 11335
+   35 th node same -> inc val: line 11349
+
+36 th insert: line 11528
+ 36 th node same -> inc val: line 11542
+
+37 th insert: line 11613
+ 37 th node small: line 11637
+  37 th node large: line 11666
+   37 th node small: line 11690
+    37 th node same -> inc val: line 11704
+
+38 th insert: line 11919
+ 38 th node small: line 11943
+  38 th node large: line 11972
+   38 th node large: line 12001
+    38 th node large: line 12030
+     38 th node same -> inc val: line 12044
+
+39 th insert: line 12297
+ 39 th node small: line 12321
+  39 th node small: line 12345
+   39 th node same -> inc val: line 12359
+
+40 th insert: line 12520
+ 40 th node large: line 12549
+  40 th node large: line 12578
+   40 th node large: line 12607
+    40 th node small: line 12631
+     40 th node same -> inc val: line 12645
+
+41 th insert: line 12913
+ 41 th node large: line 12942
+  41 th node small: line 12966
+   41 th node small: line 12990
+    41 th node same -> inc val: line 13004
+
+42 th insert: line 13211
+ 42 th node large: line 13240
+  42 th node small: line 13264
+   42 th node small: line 13288
+    42 th node large: line 13317
+     42 th node make: line 13328
+
+43 th insert: line 13563
+ 43 th node large: line 13592
+  43 th node large: line 13621
+   43 th node large: line 13650
+    43 th node small: line 13674
+     43 th node small: line 13698
+      43 th node make: line 13709
+     (left) rotation occured: line 13756
+
+44 th insert: line 14024
+ 44 th node small: line 14048
+  44 th node small: line 14072
+   44 th node same -> inc val: line 14086
+
+45 th insert: line 14247
+ 45 th node large: line 14276
+  45 th node large: line 14305
+   45 th node large: line 14334
+    45 th node small: line 14358
+     45 th node same -> inc val: line 14372
+
+46 th insert: line 14645
+ 46 th node large: line 14674
+  46 th node large: line 14703
+   46 th node large: line 14732
+    46 th node small: line 14756
+     46 th node large: line 14785
+      46 th node same -> inc val: line 14799
+
+47 th insert: line 15106
+ 47 th node large: line 15135
+  47 th node large: line 15164
+   47 th node large: line 15193
+    47 th node small: line 15217
+     47 th node large: line 15246
+      47 th node large: line 15275
+       47 th node make: line 15286
+     (right) rotation occured: line 15391
+    (left) rotation occured: line 15435
+   (right) rotation occured: line 15527
+ (right) rotation occured: line 15651
+
+48 th insert: line 15688
+ 48 th node large: line 15717
+  48 th node small: line 15741
+   48 th node small: line 15765
+    48 th node large: line 15794
+     48 th node make: line 15805
+
+49 th insert: line 16040
+ 49 th node small: line 16064
+  49 th node large: line 16093
+   49 th node small: line 16117
+    49 th node large: line 16146
+     49 th node same -> inc val: line 16160
+
+50 th insert: line 16406
+ 50 th node small: line 16430
+  50 th node small: line 16454
+   50 th node large: line 16483
+    50 th node large: line 16512
+     50 th node large: line 16541
+      50 th node same -> inc val: line 16555
+
+51 th insert: line 16863
+ 51 th node small: line 16887
+  51 th node small: line 16911
+   51 th node small: line 16935
+    51 th node same -> inc val: line 16949
+
+52 th insert: line 17165
+ 52 th node large: line 17194
+  52 th node same -> inc val: line 17208
+
+53 th insert: line 17333
+ 53 th node large: line 17362
+  53 th node small: line 17386
+   53 th node same -> inc val: line 17400
+
+54 th insert: line 17572
+ 54 th node small: line 17596
+  54 th node small: line 17620
+   54 th node large: line 17649
+    54 th node small: line 17673
+     54 th node same -> inc val: line 17687
+
+55 th insert: line 17957
+ 55 th node small: line 17981
+  55 th node small: line 18005
+   55 th node large: line 18034
+    55 th node large: line 18063
+     55 th node same -> inc val: line 18077
+
+56 th insert: line 18351
+ 56 th node small: line 18375
+  56 th node same -> inc val: line 18389
