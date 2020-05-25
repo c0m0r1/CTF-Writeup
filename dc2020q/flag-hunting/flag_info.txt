@@ -1,0 +1,57 @@
+OOO{xxxx xx xxxxx xxxx xxx xxx xxx xxxx xxxx xxxxxx xxxxx}
+O<x4<{
+x4<x5<{
+x6 == x4
+x5<x7<{
+x8 == " " (x8 < 'O')
+x4<x9<x7
+x5 < x10 < {
+x11 == x8 == " "
+x9 < x12 < x5
+x4 < x13 < x7
+x9<x14<x12
+x15 == x4
+x16 == x15 == x6 == x4
+x17 == x8 == " "
+x18 == x10
+x19 == x4
+O < x20 < x4
+x21 == x14
+x22 == x8 == " "
+x7 < x23 < x14
+x13<x24<x9
+x20<x25<x4
+x26 == x8 == " "
+x20<x27<x25
+x28 == x23
+x29 == x10
+x30 == x8 == " "
+x27 < x31 < x25
+x32 == x20
+x33 == x7
+x34 == x8 == " "
+x35 == x14
+x36 == x4
+x37 == x20
+x38 == x25
+x39 == x8 == " "
+x40 == x12
+x41 == x13
+x13 < x42 < x24
+x5<x43<x12
+x44 == x8 == " "
+x45 == x43
+x46 == x12
+x12< x47 < x5
+x23 < x48 < x14
+x49 == x42
+x50 == x25
+x51 == x8 == " "
+x52 == x12
+x53 == x14
+x54 == x20
+x55 == x31
+x56 == x4
+
+
+OOO{even my three year old boy can read this stupid trace}
