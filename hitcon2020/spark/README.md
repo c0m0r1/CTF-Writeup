@@ -20,3 +20,4 @@ TODO
 - query to heap-relative arb. write
 - overwrite kernel stack and ret2user.
 
+flag:`hitcon{easy_graph_theory_easy_kernel_exploitation}`
